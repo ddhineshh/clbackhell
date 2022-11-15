@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+
+.tit{
+    display: flex;
+    justify-content: center;
+    min-height: 450px;
+    align-items: center;
+    font-family: sans-serif;
+}
+.wish{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: serif;
+}
